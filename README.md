@@ -30,4 +30,4 @@ Apple(App Store)的公开API
 
 ## Apps详情
 ● https://itunes.apple.com/hk/lookup?id=${id}
-○ 此API可接受多個id，⽤“,”拼接。例如 lookup?id=123,456,789
+<br>○ 此API可接受多個id，⽤“,”拼接。例如 lookup?id=123,456,789
