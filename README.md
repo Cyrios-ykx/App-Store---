@@ -14,4 +14,4 @@ npm run build
 ```
 
 # 效果图
-![Alt text](image.png)
+![Alt text](./src/assets/img/effectDrawing.png)
