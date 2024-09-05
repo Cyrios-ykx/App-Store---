@@ -1,5 +1,5 @@
 # 项目名称
-应用列表
+App Store列表⾴⾯-应用列表
 
 # 技术栈
 Vue 3 + TypeScript + Vite
@@ -12,3 +12,6 @@ npm run dev
 
 npm run build
 ```
+
+# 效果图
+![Alt text](image.png)
