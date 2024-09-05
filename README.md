@@ -15,3 +15,19 @@ npm run build
 
 # 效果图
 ![Alt text](./src/assets/img/effectDrawing.png)
+
+# 功能支持
+✅ 支持搜索
+
+# 友情链接
+Apple(App Store)的公开API
+
+## 最受歡迎的Apps
+● https://itunes.apple.com/hk/rss/topgrossingapplications/limit=${limit}/json
+
+## 免费的Apps
+● https://itunes.apple.com/hk/rss/topfreeapplications/limit=${limit}/json
+
+## Apps详情
+● https://itunes.apple.com/hk/lookup?id=${id}
+    ○ 此API可接受多個id，⽤“,”拼接。例如 lookup?id=123,456,789
